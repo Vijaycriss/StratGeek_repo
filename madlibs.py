@@ -3,6 +3,7 @@ adj = input("Adjective: ")
 verb1 = input("Verb: ")
 verb2 = input("Verb: ")
 verb3 = input("verb: ")
+verb4 = input("verb: ")
 famous_person = input("Famous_person: ")
 
 
