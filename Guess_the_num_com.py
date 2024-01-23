@@ -15,6 +15,7 @@ def guess(x):
         
     print(f"Hah Finally You have guessed the number {guess} in {step_count} times")
     print(f"The numbers you have entered are {list}")
+    print()
     
 
 guess(20)
